@@ -1,0 +1,4 @@
+top 3 skills :
+ 1.java 
+ 2.c 
+ 3.webdevelopment
